@@ -23,19 +23,19 @@
 13) Declaración de una clase y definición de objetos.
 Importante: Clases y Objetos
 14) Sintaxis de una función/método
-    - Funciones Virtuales:
-- Virtual Functions and Runtime Polymorphism
-- Default arguments and virtual function
-- Virtual functions in derived classes
-- Can static functions be virtual?
-- Virtual Destructor
-- Virtual Constructor
-- Virtual Copy Constructor
-- RTTI (Run-time type information)
-- Can virtual functions be private?
-- Inline virtual function
-- Pure Virtual Functions and Abstract Classes
-- Pure virtual destructor
+- Funciones Virtuales:
+        - Virtual Functions and Runtime Polymorphism
+        - Default arguments and virtual function
+        - Virtual functions in derived classes
+        - Can static functions be virtual?
+        - Virtual Destructor
+        - Virtual Constructor
+        - Virtual Copy Constructor
+        - RTTI (Run-time type information)
+        - Can virtual functions be private?
+        - Inline virtual function
+        - Pure Virtual Functions and Abstract Classes
+        - Pure virtual destructor
 
 15) Estructura de datos tipo vector (array)
 16) Vectores paralelos
@@ -94,7 +94,7 @@ Importante: Clases y Objetos
 62) La clase string (size - length - empty - at)
 63) La clase string (append - insert - erase)
 
-## C++ Profecional
+## C++ Profecional.
 
 64) Punteros en C++
 65) Administración dinámica de memoria en el lenguaje C
