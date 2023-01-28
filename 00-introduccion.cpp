@@ -35,3 +35,32 @@ Es la acreditación de que has completado exitosamente el curso. Cada módulo de
 👉 Consultas y Soporte vía discord del curso (al final de esta página encontrarás el link).
 
 */
+
+//! 1 - Objetivos del curso y nociones básicas de programación
+
+/*
+El curso está ideado para ser desarrollado por una persona que no conoce nada de programación y se utilice C++ como primer lenguaje.
+
+El objetivo fundamental de este tutorial es permitir que el estudiante pueda resolver problemas de distinta índole (matemáticos, administrativos, gráficos, contables etc.) empleando como herramienta la computadora.
+
+Hay que tener en cuenta que para llegar a ser programador se debe recorrer un largo camino donde cada tema es fundamental para conceptos futuros. Es importante no dejar temas sin entender y relacionar.
+
+La programación a diferencia de otras materias como podría ser la historia requiere un estudio metódico y ordenado (en historia se puede estudiar la edad media sin tener grandes conocimientos de la edad antigua)
+
+La programación es una actividad nueva para el estudiante, todavía no hay en muchos colegios una materia parecida.
+
+Es bueno tenerse paciencia cuando los problemas no se resuelven por completo, pero es de fundamental importancia dedicar tiempo al análisis individual de los problemas.
+
+? ¿Qué es un programa?
+
+Programa: Conjunto de instrucciones que entiende una computadora para realizar una actividad. 
+
+Todo programa tiene un objetivo bien definido: un procesador de texto es un programa que permite cargar, modificar e imprimir textos, un programa de ajedrez permite jugar al ajedrez contra el ordenador u otro contrincante humano.
+
+La actividad fundamental del programador es resolver problemas empleando el ordenador como herramienta fundamental.
+
+Para la resolución de un problema hay que plantear un algoritmo.
+Algoritmo: Son los pasos a seguir para resolver un problema.
+
+
+*/
