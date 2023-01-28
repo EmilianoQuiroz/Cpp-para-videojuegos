@@ -62,5 +62,32 @@ La actividad fundamental del programador es resolver problemas empleando el orde
 Para la resolución de un problema hay que plantear un algoritmo.
 Algoritmo: Son los pasos a seguir para resolver un problema.
 
-
 */
+
+//! Codificación del diagrama de flujo en C++
+/*
+Ahora debemos codificar el diagrama de flujo utilizando las instrucciones del lenguaje C++.
+A medida que avancemos en el curso veremos que significa la palabra clave include, el using namespace etc. por el momento nos centraremos donde codificaremos nuestros diagramas de flujo.
+La codificación del diagrama de flujo la haremos dentro de la función main (la función main es la primera que se ejecuta al iniciarse un programa)
+
+El programa completo para el calculo del sueldo de un operario conociendo la cantidad de horas trabajadas y el costo por hora es (copiemos estas líneas en el editor del Visual Studio Community dentro de la ventana archivo1.cpp que creamos en el concepto anterior):
+*/
+
+#include<iostream>
+
+using namespace std;
+
+int main()
+{
+    int horasTrabajadas;
+    float costoHora;
+    float sueldo;
+    cout <<"Ingrese Horas trabajadas por el operario:";
+    cin >>horasTrabajadas;
+    cout <<"Ingrese el pago por hora:";
+    cin >>costoHora;
+    sueldo = horasTrabajadas * costoHora;
+    cout <<"El sueldo total del operario es:";
+    cout <<sueldo;
+    return 0;
+}
